@@ -84,7 +84,7 @@ celerybeat-schedule
 # Environments
 .env
 .venv
-cookbook/
+graph/
 env/
 venv/
 ENV/
